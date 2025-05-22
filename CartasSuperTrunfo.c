@@ -123,6 +123,8 @@ int main() {
 
 
     printf("Novo commit\n");
+
+    printf("Novo commit\n");
     
     return 0;
 }
